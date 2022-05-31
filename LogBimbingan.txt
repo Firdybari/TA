@@ -27,3 +27,19 @@ Rencana minggu depan
 - membernarkan tujuan, dan perumusan masalah
 - membenarkan penelitian terdahulu flowchart bukan metode,
 dan dibawahnya menjelaskan tentang metode motode tersebut secara singkat
+
+Catatan Bimbingan 3 :
+May 31 5.00 PM
+Kegiatan bimbingan:
+1. Melakukan Laporan dari bimbingan terakhir serta progress TA
+
+Saran Pembimbing :
+Menambahkan teori action research
+
+Target bimbingan selanjutnya
+1. Menambahkan sedikit penjelasan tentang Metode Metode pada penelitian terdahulu
+
+Catatan kedepannya:
+membuat use case setelah ke perusahaan
+-Fitur
+
